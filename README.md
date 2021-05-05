@@ -1,6 +1,6 @@
-# Grid-Clipping
+# Autogrid-Clipping
 
-CryoVR Grid Clipping Module is an open-source VR training application focus on simulating CryoEM instruments.
+CryoVR Autogrid Clipping Module is an open-source VR training application focus on simulating CryoEM instruments.
 
 If you have any interest in this project, please visit **[our website](https://www.purdue.edu/cryovr/)** and **[the video](https://drive.google.com/file/d/1q9JvDUeVQykjZlbxAuqCWpnsbH4jnAfG/view?usp=sharing)** to get more information and resource!
 
