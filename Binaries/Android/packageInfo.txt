@@ -1,0 +1,4 @@
+com.YourCompany.Autogrid_Clipping
+11
+1.0
+name='com.epicgames.ue4.GameActivity.AppType' value=''
