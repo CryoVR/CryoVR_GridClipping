@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.Autogrid_Clipping.OBBDownloaderService;
-import com.YourCompany.Autogrid_Clipping.DownloaderActivity;
+import com.CyoVR.AutogridClipping.OBBDownloaderService;
+import com.CyoVR.AutogridClipping.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.Autogrid_Clipping.OBBData;
+import com.CyoVR.AutogridClipping.OBBData;
 
 
 public class DownloadShim
